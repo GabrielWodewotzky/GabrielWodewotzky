@@ -8,25 +8,28 @@
 <div align="center">
   <table cellspacing="0" cellpadding="0" border="0">
     <tr>
-      <td align="center" style="padding-right: 24px; vertical-align: middle;">
+      <td align="center" style="padding-right: 20px; vertical-align: middle;">
         <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/1760064564223.jpg?raw=true" 
-             width="180" 
-             style="border-radius: 12px;" 
+             width="160" height="160"
+             style="border-radius: 12px; object-fit: cover;" 
              alt="Gabriel Simioni"/>
       </td>
-      <td align="left" style="padding: 0 24px; vertical-align: middle;">
+      <td align="left" style="padding: 0 20px; vertical-align: middle;">
         <h2>Gabriel Simioni</h2>
         <p>
           <img src="https://api.iconify.design/lucide/map-pin.svg?color=%232DD4BF" width="16" />&nbsp;São Paulo, Brasil<br/>
           <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%232DD4BF" width="16" />&nbsp;Ciência da Computação — FIAP<br/>
-          <img src="https://api.iconify.design/lucide/briefcase.svg?color=%232DD4BF" width="16" />&nbsp;Desenvolvedor de Software<br/><br/>
-          <a href="mailto:gabrielsimioniwo@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18" />&nbsp;gabrielsimioniwo@gmail.com</a><br/><br/>
-          <a href="https://www.linkedin.com/in/gabrielsimioni22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" />&nbsp;linkedin.com/in/gabrielsimioni22</a>
+          <img src="https://api.iconify.design/lucide/briefcase.svg?color=%232DD4BF" width="16" />&nbsp;Desenvolvedor de Software
+        </p>
+        <p>
+          <a href="mailto:gabrielsimioniwo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-gabrielsimioniwo%40gmail.com-121218?style=flat&logo=gmail&logoColor=white"/></a>
+          <a href="https://www.linkedin.com/in/gabrielsimioni22"><img alt="LinkedIn" src="https://img.shields.io/badge/-gabrielsimioni22-121218?style=flat&logo=linkedin&logoColor=0A66C2"/></a>
         </p>
       </td>
-      <td align="center" style="padding-left: 24px; vertical-align: middle;">
+      <td align="center" style="padding-left: 20px; vertical-align: middle;">
         <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/a1c5mw%20(1).gif?raw=true" 
-             width="150" 
+             width="160" height="160"
+             style="border-radius: 12px; object-fit: cover;"
              alt="Avatar animado"/>
       </td>
     </tr>
@@ -121,12 +124,6 @@ Tenho perfil analítico e multidisciplinar, unindo lógica de programação a ra
 ---
 
 ## <img src="https://api.iconify.design/lucide/trending-up.svg?color=%23D4AF37" width="24" valign="middle"/> GitHub Stats
-
-<img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/gif.gif?raw=true" width="180" align="right"/>
-<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielSimioni12&show_icons=true&theme=tokyonight&hide=contribs&count_private=true"/>
-<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielSimioni12&layout=compact&theme=tokyonight&langs_count=8"/>
-
-<br clear="right"/><br/>
 
 <img src="https://streak-stats.demolab.com?user=GabrielSimioni12&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
