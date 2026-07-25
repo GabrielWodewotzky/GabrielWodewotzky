@@ -43,7 +43,7 @@ Desenvolvedor Web, graduando em **Ciência da Computação pela FIAP**, com foco
 
 Possuo conhecimento com foco principal em **React** e **TypeScript**, além de experiência com JavaScript, HTML e CSS no desenvolvimento de aplicações responsivas, componentização, consumo de APIs e integração entre Front-end e Back-end.
 
-Também possuo conhecimento em análise e manipulação de dados utilizando **Excel**, **SQL** e bancos de dados, realizando tratamento e interpretação de informações para apoio à tomada de decisão.
+Também possuo conhecimento em análise e manipulação de dados utilizando **Excel**, **SQL**, **Power BI** e bancos de dados, realizando tratamento e interpretação de informações para apoio à tomada de decisão.
 
 Tenho vivência no **setor financeiro**, agregando conhecimento de processos, dados e contexto de negócios do mercado. Perfil analítico, com aprendizado contínuo e foco em evolução técnica.
 
@@ -72,11 +72,13 @@ Tenho vivência no **setor financeiro**, agregando conhecimento de processos, da
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
 </p>
 
-### 🗄️ Banco de Dados
+### 🗄️ Banco de Dados & BI
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40" title="Power BI"/>
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="40" title="Excel"/>
 </p>
 
@@ -102,7 +104,7 @@ Tenho vivência no **setor financeiro**, agregando conhecimento de processos, da
 
 ## 🏆 Projetos
 
-<a href="https://gabrielsimioni.dev" target="_blank">
+<a href="https://portifolio-gabriel-three.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfólio_Pessoal-06050f?style=for-the-badge&logoColor=white" alt="Portfólio"/>
 </a>
 
@@ -119,10 +121,16 @@ Tenho vivência no **setor financeiro**, agregando conhecimento de processos, da
 ## 📈 GitHub Stats
 
 <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/gif.gif?raw=true" width="180" align="right"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielSimioni12&show_icons=true&theme=tokyonight&hide=contribs&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSimioni12&layout=compact&theme=tokyonight&langs_count=8"/>
+<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielSimioni12&show_icons=true&theme=tokyonight&hide=contribs&count_private=true"/>
+<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielSimioni12&layout=compact&theme=tokyonight&langs_count=8"/>
 
 <br clear="right"/><br/>
+
+<img src="https://streak-stats.demolab.com?user=GabrielSimioni12&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=GabrielSimioni12&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 
 ---
 
