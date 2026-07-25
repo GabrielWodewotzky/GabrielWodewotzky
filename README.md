@@ -76,10 +76,10 @@ Tenho vivência no **setor financeiro**, agregando conhecimento de processos, da
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="40" title="Power BI"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="40" title="Excel"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="28" title="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="28" title="Power BI"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" title="Excel"/>
 </p>
 
 ### 🤖 IA & Machine Learning
@@ -127,10 +127,6 @@ Tenho vivência no **setor financeiro**, agregando conhecimento de processos, da
 <br clear="right"/><br/>
 
 <img src="https://streak-stats.demolab.com?user=GabrielSimioni12&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=GabrielSimioni12&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
 
 ---
 
