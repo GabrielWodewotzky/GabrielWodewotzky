@@ -17,9 +17,9 @@
       <td align="left" style="padding: 0 24px; vertical-align: middle;">
         <h2>Gabriel Simioni</h2>
         <p>
-          📍 São Paulo, Brasil<br/>
-          🎓 Ciência da Computação — FIAP<br/>
-          💼 Desenvolvedor de Software<br/><br/>
+          <img src="https://api.iconify.design/lucide/map-pin.svg?color=%232DD4BF" width="16" />&nbsp;São Paulo, Brasil<br/>
+          <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%232DD4BF" width="16" />&nbsp;Ciência da Computação — FIAP<br/>
+          <img src="https://api.iconify.design/lucide/briefcase.svg?color=%232DD4BF" width="16" />&nbsp;Desenvolvedor de Software<br/><br/>
           <a href="mailto:gabrielsimioniwo@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="18" />&nbsp;gabrielsimioniwo@gmail.com</a><br/><br/>
           <a href="https://www.linkedin.com/in/gabrielsimioni22"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" />&nbsp;linkedin.com/in/gabrielsimioni22</a>
         </p>
@@ -37,21 +37,21 @@
 
 ---
 
-## 💡 Sobre mim
+## <img src="https://api.iconify.design/lucide/lightbulb.svg?color=%23D4AF37" width="24" valign="middle"/> Sobre mim
 
-Desenvolvedor Web, graduando em **Ciência da Computação pela FIAP**, com foco no desenvolvimento de aplicações web modernas e interfaces escaláveis.
+**Desenvolvedor de Software**, graduando em **Ciência da Computação pela FIAP**, atuando de forma equilibrada entre **Front-end** e **Análise de Dados**.
 
-Possuo conhecimento com foco principal em **React** e **TypeScript**, além de experiência com JavaScript, HTML e CSS no desenvolvimento de aplicações responsivas, componentização, consumo de APIs e integração entre Front-end e Back-end.
+No desenvolvimento, trabalho com **React**, **TypeScript** e **Next.js** na construção de interfaces modernas, responsivas e escaláveis, com consumo de APIs REST e integração completa entre Front-end e Back-end.
 
-Também possuo conhecimento em análise e manipulação de dados utilizando **Excel**, **SQL**, **Power BI** e bancos de dados, realizando tratamento e interpretação de informações para apoio à tomada de decisão.
+Na análise de dados, atuo com **SQL**, **Power BI** e **Excel**, extraindo e interpretando informações para apoiar a tomada de decisão — experiência construída no **setor financeiro**, onde também tive contato direto com processos e contexto de negócio.
 
-Tenho vivência no **setor financeiro**, agregando conhecimento de processos, dados e contexto de negócios do mercado. Perfil analítico, com aprendizado contínuo e foco em evolução técnica.
+Tenho perfil analítico e multidisciplinar, unindo lógica de programação a raciocínio orientado a dados, sempre em busca de evolução técnica contínua.
 
 ---
 
-## 🚀 Tech Stack
+## <img src="https://api.iconify.design/lucide/rocket.svg?color=%23D4AF37" width="24" valign="middle"/> Tech Stack
 
-### 🎨 Front-end
+### <img src="https://api.iconify.design/lucide/palette.svg?color=%232DD4BF" width="20" valign="middle"/> Front-end
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
@@ -64,7 +64,7 @@ Tenho vivência no **setor financeiro**, agregando conhecimento de processos, da
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
 </p>
 
-### ⚙️ Back-end
+### <img src="https://api.iconify.design/lucide/settings.svg?color=%232DD4BF" width="20" valign="middle"/> Back-end
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
@@ -72,7 +72,7 @@ Tenho vivência no **setor financeiro**, agregando conhecimento de processos, da
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C"/>
 </p>
 
-### 🗄️ Banco de Dados & BI
+### <img src="https://api.iconify.design/lucide/database.svg?color=%232DD4BF" width="20" valign="middle"/> Banco de Dados & BI
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
@@ -82,7 +82,7 @@ Tenho vivência no **setor financeiro**, agregando conhecimento de processos, da
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" title="Excel"/>
 </p>
 
-### 🤖 IA & Machine Learning
+### <img src="https://api.iconify.design/lucide/bot.svg?color=%232DD4BF" width="20" valign="middle"/> IA & Machine Learning
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" title="TensorFlow"/>
@@ -91,7 +91,7 @@ Tenho vivência no **setor financeiro**, agregando conhecimento de processos, da
   <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="28" title="Cursor"/>
 </p>
 
-### 🛠️ Ferramentas
+### <img src="https://api.iconify.design/lucide/wrench.svg?color=%232DD4BF" width="20" valign="middle"/> Ferramentas
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
@@ -104,7 +104,7 @@ Tenho vivência no **setor financeiro**, agregando conhecimento de processos, da
 
 <div align="center">
 
-## 🏆 Projetos
+## <img src="https://api.iconify.design/lucide/trophy.svg?color=%23D4AF37" width="24" valign="middle"/> Projetos
 
 <a href="https://portifolio-gabriel-three.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfólio_Pessoal-06050f?style=for-the-badge&logoColor=white" alt="Portfólio"/>
@@ -112,15 +112,15 @@ Tenho vivência no **setor financeiro**, agregando conhecimento de processos, da
 
 ---
 
-## 🎓 Formação
+## <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%23D4AF37" width="24" valign="middle"/> Formação
 
-| 🏫 Instituição | 📚 Curso | 📅 Período |
+| Instituição | Curso | Período |
 |:---:|:---:|:---:|
 | **FIAP** | Ciência da Computação | 2024 – 2028 |
 
 ---
 
-## 📈 GitHub Stats
+## <img src="https://api.iconify.design/lucide/trending-up.svg?color=%23D4AF37" width="24" valign="middle"/> GitHub Stats
 
 <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/gif.gif?raw=true" width="180" align="right"/>
 <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielSimioni12&show_icons=true&theme=tokyonight&hide=contribs&count_private=true"/>
@@ -132,6 +132,6 @@ Tenho vivência no **setor financeiro**, agregando conhecimento de processos, da
 
 ---
 
-*✨ "Código limpo não é escrito seguindo regras. É escrito por alguém que se importa." — Robert C. Martin*
+*<img src="https://api.iconify.design/lucide/sparkles.svg?color=%23D4AF37" width="16" valign="middle"/> "Código limpo não é escrito seguindo regras. É escrito por alguém que se importa." — Robert C. Martin*
 
 </div>
