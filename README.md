@@ -24,6 +24,7 @@
         <p>
           <a href="mailto:gabrielsimioniwo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-gabrielsimioniwo%40gmail.com-121218?style=flat&logo=gmail&logoColor=white"/></a>
           <a href="https://www.linkedin.com/in/gabrielsimioni22"><img alt="LinkedIn" src="https://img.shields.io/badge/-gabrielsimioni22-121218?style=flat&logo=linkedin&logoColor=0A66C2"/></a>
+          <a href="https://wa.me/5511947151217"><img alt="WhatsApp" src="https://img.shields.io/badge/-(11)_94715--1217-121218?style=flat&logo=whatsapp&logoColor=25D366"/></a>
         </p>
       </td>
       <td align="center" style="padding-left: 20px; vertical-align: middle;">
@@ -136,19 +137,7 @@ Tenho perfil analítico e multidisciplinar, unindo lógica de programação a ra
 
 ## <img src="https://api.iconify.design/lucide/handshake.svg?color=%23D4AF37" width="24" valign="middle"/> Aberto a Oportunidades
 
-<p align="center">
-  <img src="https://github.com/GabrielWodewotzky/GabrielWodewotzky/blob/main/shark-1.png?raw=true" width="120" alt="Tubarão pixel art"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/GabrielWodewotzky/GabrielWodewotzky/blob/main/shark-2.png?raw=true" width="120" alt="Tubarão pixel art nadando"/>
-</p>
-
 Estou aberto a oportunidades de **estágio** e **vagas júnior** em **Front-end** e **Análise de Dados**. Vamos conversar!
-
-<p>
-  <a href="https://wa.me/5511947151217"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-(11)_94715--1217-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-  <a href="mailto:gabrielsimioniwo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gabrielsimioniwo%40gmail.com-121218?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/gabrielsimioni22"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gabrielsimioni22-121218?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-</p>
 
 ---
 
