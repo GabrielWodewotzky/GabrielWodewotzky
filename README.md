@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/banner.svg?raw=true" alt="Banner Gabriel Simioni" width="100%" />
+  <img src="https://github.com/GabrielWodewotzky/GabrielWodewotzky/blob/main/banner.svg?raw=true" alt="Banner Gabriel Wodewotzky" width="100%" />
 </p>
 
 <br/>
@@ -9,13 +9,13 @@
   <table cellspacing="0" cellpadding="0" border="0">
     <tr>
       <td align="center" style="padding-right: 20px; vertical-align: middle;">
-        <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/1760064564223.jpg?raw=true" 
+        <img src="https://github.com/GabrielWodewotzky/GabrielWodewotzky/blob/main/1760064564223.jpg?raw=true" 
              width="160" height="160"
              style="border-radius: 12px; object-fit: cover;" 
-             alt="Gabriel Simioni"/>
+             alt="Gabriel Wodewotzky"/>
       </td>
       <td align="left" style="padding: 0 20px; vertical-align: middle;">
-        <h2>Gabriel Simioni</h2>
+        <h2>Gabriel Wodewotzky</h2>
         <p>
           <img src="https://api.iconify.design/lucide/map-pin.svg?color=%232DD4BF" width="16" />&nbsp;São Paulo, Brasil<br/>
           <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%232DD4BF" width="16" />&nbsp;Ciência da Computação — FIAP<br/>
@@ -27,7 +27,7 @@
         </p>
       </td>
       <td align="center" style="padding-left: 20px; vertical-align: middle;">
-        <img src="https://github.com/GabrielSimioni12/GabrielSimioni12/blob/main/a1c5mw%20(1).gif?raw=true" 
+        <img src="https://github.com/GabrielWodewotzky/GabrielWodewotzky/blob/main/a1c5mw%20(1).gif?raw=true" 
              width="160" height="160"
              style="border-radius: 12px; object-fit: cover;"
              alt="Avatar animado"/>
@@ -125,7 +125,10 @@ Tenho perfil analítico e multidisciplinar, unindo lógica de programação a ra
 
 ## <img src="https://api.iconify.design/lucide/trending-up.svg?color=%23D4AF37" width="24" valign="middle"/> GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=GabrielSimioni12&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GabrielWodewotzky&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielWodewotzky&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
 
 ---
 
