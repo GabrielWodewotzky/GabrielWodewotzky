@@ -84,8 +84,8 @@ Tenho perfil analítico e multidisciplinar, unindo lógica de programação a ra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" title="Supabase"/>
   <img src="https://api.iconify.design/simple-icons/powerbi.svg?color=%23F2C811" width="40" title="Power BI"/>
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" title="Excel"/>
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" height="28" title="Google Sheets"/>
+  <img src="https://api.iconify.design/simple-icons/microsoftexcel.svg?color=%23217346" width="40" title="Excel"/>
+  <img src="https://api.iconify.design/simple-icons/googlesheets.svg?color=%2334A853" width="40" title="Google Sheets"/>
 </p>
 
 ### <img src="https://api.iconify.design/lucide/bot.svg?color=%232DD4BF" width="20" valign="middle"/> IA & Machine Learning
