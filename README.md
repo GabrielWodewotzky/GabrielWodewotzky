@@ -81,8 +81,10 @@ Tenho perfil analítico e multidisciplinar, unindo lógica de programação a ra
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" title="Supabase"/>
   <img src="https://api.iconify.design/simple-icons/powerbi.svg?color=%23F2C811" width="40" title="Power BI"/>
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" height="28" title="Excel"/>
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white" height="28" title="Google Sheets"/>
 </p>
 
 ### <img src="https://api.iconify.design/lucide/bot.svg?color=%232DD4BF" width="20" valign="middle"/> IA & Machine Learning
@@ -132,6 +134,24 @@ Tenho perfil analítico e multidisciplinar, unindo lógica de programação a ra
 
 ---
 
-*<img src="https://api.iconify.design/lucide/sparkles.svg?color=%23D4AF37" width="16" valign="middle"/> "Código limpo não é escrito seguindo regras. É escrito por alguém que se importa." — Robert C. Martin*
+## <img src="https://api.iconify.design/lucide/handshake.svg?color=%23D4AF37" width="24" valign="middle"/> Aberto a Oportunidades
+
+<p align="center">
+  <img src="https://github.com/GabrielWodewotzky/GabrielWodewotzky/blob/main/shark-1.png?raw=true" width="120" alt="Tubarão pixel art"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/GabrielWodewotzky/GabrielWodewotzky/blob/main/shark-2.png?raw=true" width="120" alt="Tubarão pixel art nadando"/>
+</p>
+
+Estou aberto a oportunidades de **estágio** e **vagas júnior** em **Front-end** e **Análise de Dados**. Vamos conversar!
+
+<p>
+  <a href="https://wa.me/5511947151217"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-(11)_94715--1217-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <a href="mailto:gabrielsimioniwo@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-gabrielsimioniwo%40gmail.com-121218?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gabrielsimioni22"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-gabrielsimioni22-121218?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+</p>
+
+---
+
+*<img src="https://api.iconify.design/lucide/sparkles.svg?color=%23D4AF37" width="16" valign="middle"/> "Transformo dados em decisões e ideias em interfaces — sempre aprendendo, sempre construindo."*
 
 </div>
